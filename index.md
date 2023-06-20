@@ -4,15 +4,16 @@ layout: page
 
 # About Me
 
-<img src="https://zhagao84.github.io/zhaowei.jpg" class="floatpic" width="370" height="480">
+<img src="https://zhagao84.github.io/zhaowei.jpg" class="floatpic" width="370" height="490">
 
-Here is **Zhaowei Gao ([高赵炜](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Zhaowei Gao ([高赵炜](https://caihanlin.com/file/高赵炜的简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I'm currently a master's student in Electrical Engineering and Information Technology at ETH Zürich, where i focues on **Image and video processing**. I started to work as a research student at [Disney Research Studio](https://studios.disneyresearch.com) in June 2022 led by[Prof. Markus Gross](https://studios.disneyresearch.com/people/markus-gross/).Prior to master, I obtained a BSc in Electrical Engineering and informational Technology at [Karlsruhe Institute of Technology](https://www.kit.edu/english/).Here is [my Resume](https://caihanlin.com/file/Resum.pdf).
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on **Machine Learning** and **low-level Computer Vision** Task, such as Image/Video Restoration, Denoising, Deblurring, Deinterlacing, Super-Resolution, Compression, etc. Besides, my interests are also on the **Human-Computer Interaction** and its applications in real world, ranging from 2D to 3D Scenes, including 2D Gaming Design, Augmented Reality, Virtual Reality.
+
 
 <!-- ## News and Updates
 
