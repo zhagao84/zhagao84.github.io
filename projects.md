@@ -41,7 +41,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 ---
 
-# Open-source Projects
+<!-- # Open-source Projects
 
 <br>
 
@@ -55,4 +55,4 @@ Many elegant LaTeX templates designed for FZU students, including Beamer Theme S
 
 #### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
 
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!** -->
