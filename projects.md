@@ -8,36 +8,36 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf) [code]
+#### [Old film Restoration: Deinterlacing and Deblurring](https://zhagao84.github.io/mypaper/123.pdf) 
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/deinterlacing.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [New Adventures in Noise Modeling](https://zhagao84.github.io/mypaper/Semester_Project.pdf)
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/pip.png">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [AR application for Building Localization](https://drive.google.com/file/d/1X0yfJwgV7oLTqo6oZNv70IQ7xN7dDoPq/view)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/RA.GIF">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+<!-- #### [FPS ](https://caihanlin.com/mypaper/202208cenim.pdf )
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/FPS.GIF">
 </center>
 <br>
 
-<br>
+<br> -->
 
 ---
 

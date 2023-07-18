@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Teaching & Workshops
+<!-- ## Teaching & Workshops
 
 <div class="third">
 <img src="/images/prelection1.JPG">
@@ -16,10 +16,32 @@ title: Hobbies
 <br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite lecturer** at the [best universities in my hometown].
 
 [a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+[best universities in my hometown]:https://www.fzu.edu.cn/ -->
+
+## Hiking & mountian climbing
+
+Hello everyone, my name is Zhaowei Gao, and I'm excited to tell you about some of my greatest passions. I absolutely love hiking, mountain climbing, and delving into the world of gaming.
+
+The great outdoors has always held a special place in my heart, and there's nothing quite like the thrill of exploring new trails and conquering challenging peaks. Hiking and mountain climbing not only keep me physically active but also allow me to connect with nature in its purest form. The feeling of accomplishment when I reach the summit after a tough climb is truly unparalleled.
 
 
+## Gaming Developing
 
+<div class="third">
+<img src="/images/FPS.GIF">
+</div>
+
+<br>In addition to my love for outdoor adventures, I'm also deeply fascinated by the world of gaming. I find immense joy in both creating and playing games. As a game developer, I had the opportunity to bring my creative vision to life by developing a thrilling [first-person shooter game]. It was an exciting and challenging journey that allowed me to merge my passion for gaming with my creative skills.
+
+As a gamer, I enjoy the opportunity to step into various roles, embark on epic quests, and collaborate with friends in multiplayer challenges. Playing games not only entertains me but also serves as a source of inspiration for my future game development endeavors.
+
+Finding a balance between my love for outdoor activities and gaming is crucial to me. Each pursuit offers its own set of unique rewards, whether it's the sense of exploration in nature or the thrill of interactive storytelling in games. Both activities complement each other and keep me constantly inspired.
+
+So, whether I'm lacing up my hiking boots for an outdoor adventure or sitting at my computer, bringing virtual worlds to life, you can be sure that I'm living life to the fullest and enjoying every moment of it!"
+
+[first-person shooter game]:https://drive.google.com/file/d/1X0yfJwgV7oLTqo6oZNv70IQ7xN7dDoPq/view
+
+<!-- 
 ## Swimming & Surfing
 
 <div class="third">
@@ -31,16 +53,16 @@ title: Hobbies
 
 ## Past Hobbies
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently. -->
 
-## My Cat
+<!-- ## My Cat
 
 This is my love. Her name is Qbo (Q宝).
 
 <div>
 <img src="/images/cat.JPG">
 </div>
-<br>
+<br> -->
 
 <!-- 
 ## Chat with me

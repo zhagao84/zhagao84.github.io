@@ -8,11 +8,11 @@ layout: page
 
 Here is **Zhaowei Gao ([高赵炜](https://zhagao84.github.io/file/高赵炜的简历.pdf))**.
 
-I'm currently a master's student in Electrical Engineering and Information Technology at ETH Zürich, where i focus on **Image and video processing**. I started to work as a research student at [Disney Research Studio(Zurich)](https://studios.disneyresearch.com) in June 2022 led by [Prof. Markus Gross](https://studios.disneyresearch.com/people/markus-gross/). I have spent time as a research assistant at [Landscape Architecture Group](https://girot.arch.ethz.ch) developing VR application on Hololens2 for Architecture. Prior to master, I obtained a BSc in Electrical Engineering and informational Technology at [Karlsruhe Institute of Technology](https://www.kit.edu/english/). Here is [my Resume](https://caihanlin.com/file/Resum.pdf).
+I'm currently a master's student in Electrical Engineering and Information Technology at ETH Zürich, where I focus on **Image and video processing**. I started to work as a research student at [Disney Research Studio(Zurich)](https://studios.disneyresearch.com) in June 2022 led by [Prof. Markus Gross](https://studios.disneyresearch.com/people/markus-gross/). I have spent time as a research assistant at [Landscape Architecture Group](https://girot.arch.ethz.ch) developing VR application on Hololens2 for Building. Prior to master, I obtained a BSc in Electrical Engineering and informational Technology at [Karlsruhe Institute of Technology](https://www.kit.edu/english/). Here is [my Resume](https://caihanlin.com/file/Resum.pdf).
 
 ## Research Interests
 
-My current research focus on **Machine Learning** and **low-level Computer Vision** Task, such as Image/Video Restoration, Denoising, Deblurring, Deinterlacing, Super-Resolution, Compression, etc. Besides, my interests are also on the **Human-Computer Interaction** and its applications in real world, ranging from 2D to 3D Scenes, including 2D Gaming Design, Augmented Reality, Virtual Reality.
+My current research focuses on **Machine Learning** and **low-level Computer Vision** Task, such as Image/Video Restoration, Denoising, Deblurring, Deinterlacing, Super-Resolution, Compression, etc. Besides, my interests are also on the **Human-Computer Interaction** and its applications in real world, ranging from 2D to 3D Scenes, including 2D Gaming Design, Augmented Reality, Virtual Reality.
 
 
 <!-- ## News and Updates
