@@ -9,9 +9,9 @@ title: Projects
 P.S., click the hyperlink title to access the source.<br>
 
 #### [Old film Restoration: Deinterlacing and Deblurring (Ongoing)](https://zhagao84.github.io/mypaper/123.pdf)
-Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
-
 <p>
+Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
+<br>
     <div>
     An powerful Deep Network pipelline for video and image deinterlacing and deblurring based on optical flow and Deofrmabale Convolution.
     </div>
@@ -37,7 +37,13 @@ Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr
 </center>
 <br>
 
-#### [AR application for Building Localization](https://drive.google.com/file/d/1X0yfJwgV7oLTqo6oZNv70IQ7xN7dDoPq/view)
+#### [AR application for Building Localization](https://github.com/zhagao84/ARforBuildingPosition)
+<p>
+Work for <a href="https://girot.arch.ethz.ch/?team=benedikt-kowalewski">Dr Benedikt Kowalewski</a> 
+    <div>
+    As a research assistant in ETHz, i implementing an AR application so that the user can mark the space either as digging or dumping on the construction site
+    </div>
+</p>
 
 <center>
 <img src="/images/RA.GIF">
