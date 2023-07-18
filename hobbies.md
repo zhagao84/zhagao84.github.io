@@ -26,17 +26,18 @@ The great outdoors has always held a special place in my heart, and there's noth
 
 ## Gaming & Game Developing
 
-In addition to my love for outdoor adventures, I'm also deeply fascinated by the world of gaming. I find immense joy in both creating and playing games. As a game developer, I had the opportunity to bring my creative vision to life by developing a thrilling [first-person shooter game]. It was an exciting and challenging journey that allowed me to merge my passion for gaming with my creative skills.As a gamer, I enjoy the opportunity to step into various roles, embark on epic quests, and collaborate with friends in multiplayer challenges. Playing games not only entertains me but also serves as a source of inspiration for my future game development endeavors.
-
+In addition to my love for outdoor adventures, I'm also deeply fascinated by the world of gaming. I find immense joy in both creating and playing games. As a game developer, I had the opportunity to bring my creative vision to life by developing a thrilling [first-person shooter game]. It was an exciting and challenging journey that allowed me to merge my passion for gaming with my creative skills.
+<center>
+<img src="/images/FPS.GIF">
+</center>
+<br>
 Finding a balance between my love for outdoor activities and gaming is crucial to me. Each pursuit offers its own set of unique rewards, whether it's the sense of exploration in nature or the thrill of interactive storytelling in games. Both activities complement each other and keep me constantly inspired.
 So, whether I'm lacing up my hiking boots for an outdoor adventure or sitting at my computer, bringing virtual worlds to life, you can be sure that I'm living life to the fullest and enjoying every moment of it!"
 
 [first-person shooter game]:https://drive.google.com/file/d/1X0yfJwgV7oLTqo6oZNv70IQ7xN7dDoPq/view
 
-<center>
-<img src="/images/FPS.GIF">
-</center>
-<br>
+
+
 
 <!-- 
 ## Swimming & Surfing

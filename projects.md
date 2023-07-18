@@ -13,7 +13,7 @@ P.S., click the hyperlink title to access the source.<br>
 Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr. Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
 <br>
     <div>
-    An powerful Deep Network pipelline for video and image deinterlacing and deblurring based on optical flow and Deofrmabale Convolution.
+    An powerful Deep Network pipelline for video and image deinterlacing and deblurring based on optical flow and Deformabale Convolution.
     </div>
 </p>
 
