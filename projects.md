@@ -6,7 +6,7 @@ title: Projects
 
 # Research Projects
 
-P.S., click the hyperlink title to access the source.<br>
+<!-- P.S., click the hyperlink title to access the source.<br> -->
 
 #### [Old film Restoration: Deinterlacing and Deblurring (Ongoing)](https://zhagao84.github.io/mypaper/123.pdf)
 <p>
