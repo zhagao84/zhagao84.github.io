@@ -10,7 +10,7 @@ P.S., click the hyperlink title to access the source.<br>
 
 #### [Old film Restoration: Deinterlacing and Deblurring (Ongoing)](https://zhagao84.github.io/mypaper/123.pdf)
 <p>
-Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
+Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr. Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
 <br>
     <div>
     An powerful Deep Network pipelline for video and image deinterlacing and deblurring based on optical flow and Deofrmabale Convolution.
@@ -25,7 +25,7 @@ Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr
 
 #### [New Adventures in Noise Modeling](https://zhagao84.github.io/mypaper/Semester_Project.pdf)
 <p>
-Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
+Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr. Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
 <br>
     <div>
     Investigating a novel method for Noise Modeling, which combines physics-based statistical methods with GAN-based training techniques.
@@ -39,9 +39,9 @@ Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr
 
 #### [AR application for Building Localization](https://github.com/zhagao84/ARforBuildingPosition)
 <p>
-Work for <a href="https://girot.arch.ethz.ch/?team=benedikt-kowalewski">Dr Benedikt Kowalewski</a> 
+Work for <a href="https://girot.arch.ethz.ch/?team=benedikt-kowalewski">Dr. Benedikt Kowalewski</a> 
     <div>
-    As a research assistant in ETHz, i implementing an AR application so that the user can mark the space either as digging or dumping on the construction site
+    As a research assistant in ETHz, I implement an AR application so that the user can mark the space either as digging or dumping on the construction site
     </div>
 </p>
 
