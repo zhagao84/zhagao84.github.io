@@ -8,21 +8,29 @@ title: Projects
 
 P.S., click the hyperlink title to access the source.<br>
 
-#### [Old film Restoration: Deinterlacing and Deblurring](https://zhagao84.github.io/mypaper/123.pdf) 
-Supervised by <a href="https://psarlin.com/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
+#### [Old film Restoration: Deinterlacing and Deblurring (Ongoing)](https://zhagao84.github.io/mypaper/123.pdf)
+Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
 
 <p>
     <div>
-    An offline python SLAM using COLMAP and ORB-SLAM which is robust, accurate, and highly extensible.
+    An powerful Deep Network pipelline for video and image deinterlacing and deblurring based on optical flow and Deofrmabale Convolution.
     </div>
 </p>
 
 <center>
 <img src="/images/deinterlacing.png">
 </center>
+
 <br>
 
 #### [New Adventures in Noise Modeling](https://zhagao84.github.io/mypaper/Semester_Project.pdf)
+<p>
+Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
+<br>
+    <div>
+    Investigating a novel method for Noise Modeling, which combines physics-based statistical methods with GAN-based training techniques.
+    </div>
+</p>
 
 <center>
 <img src="/images/pip.png">
