@@ -9,7 +9,7 @@ layout: page
 <br>
 Here is **Zhaowei Gao ([高赵炜](https://zhagao84.github.io/file/高赵炜的简历.pdf))**.
 <br>
-I'm currently a master's student in Electrical Engineering and Information Technology at ETH Zürich, where I focus on **Image and video processing**. I started to work as a research student at [Disney Research Studio(Zurich)](https://studios.disneyresearch.com) in June 2022 led by [Prof. Markus Gross](https://studios.disneyresearch.com/people/markus-gross/). I have spent time as a research assistant at [Landscape Architecture Group](https://girot.arch.ethz.ch) developing VR application on Hololens2 for Building. Prior to master, I obtained a BSc in Electrical Engineering and informational Technology at [Karlsruhe Institute of Technology](https://www.kit.edu/english/). Here is [my Resume](https://zhagao84.github.io/file/zhaoweis_Resum.pdf).
+I'm currently a master's student in Electrical Engineering and Information Technology at ETH Zürich, where I focus on **Image and video processing**. I started to work as a research student at [Disney Research Studio(Zurich)](https://studios.disneyresearch.com) in June 2022 led by [Prof. Markus Gross](https://studios.disneyresearch.com/people/markus-gross/). I have spent time as a research assistant at [Landscape Architecture Group](https://girot.arch.ethz.ch) developing VR application on Hololens2 for Building. Prior to master, I obtained a BSc in Electrical Engineering and informational Technology at [Karlsruhe Institute of Technology](https://www.kit.edu/english/). Here is [my Resume](https://zhagao84.github.io/file/zhaoweis_Resume.pdf).
 
 ## Research Interests
 
