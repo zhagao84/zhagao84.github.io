@@ -8,7 +8,7 @@ title: Projects
 
 <!-- P.S., click the hyperlink title to access the source.<br> -->
 
-#### [Old film Restoration: Deinterlacing and Deblurring (Ongoing)](https://zhagao84.github.io/mypaper/123.pdf)
+#### Old film Restoration: Deinterlacing and Deblurring [(Arxiv)](https://arxiv.org/abs/2310.19535)
 <p>
 Supervised by <a href="https://studios.disneyresearch.com/people/yang-zhang/">Dr. Yang Zhang</a> and <a href="https://studios.disneyresearch.com/people/markus-gross/">Prof. Markus Gross</a>
 <br>
